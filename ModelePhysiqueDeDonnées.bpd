@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{0C6F7FB3-5C48-467C-9644-9AFABACD45BD}" Label="" LastModificationDate="1593129036" Name="ModeleOrienteObjet_1" Objects="37" Symbols="9" Target="Microsoft SQL Server 2008" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" signature="PDM_DATA_MODEL_XML" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{0C6F7FB3-5C48-467C-9644-9AFABACD45BD}" Label="" LastModificationDate="1593129036" Name="ModeleOrienteObjet_1" Objects="41" Symbols="10" Target="Microsoft SQL Server 2008" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" signature="PDM_DATA_MODEL_XML" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -2620,7 +2620,7 @@ ATT PKEY</a:History>
 <a:Creator>admin</a:Creator>
 <a:ModificationDate>1587999757</a:ModificationDate>
 <a:Modifier>admin</a:Modifier>
-<a:TargetModelURL>file:///C|/Users/admin/Desktop/les brefs/Bref-08/DiagrammeDeClasse.moo</a:TargetModelURL>
+<a:TargetModelURL>file:///C|/Users/admin/Desktop/les brefs/creating-an-SQL-base-de-donne-/DiagrammeDeClasse.moo</a:TargetModelURL>
 <a:TargetModelID>AA1862BF-96A1-4ED9-A287-FC97DD647FC2</a:TargetModelID>
 <a:TargetModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:TargetModelClassID>
 <c:SessionShortcuts>
